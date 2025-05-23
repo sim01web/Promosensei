@@ -3,7 +3,7 @@ Your smart GenAI-powered shopping assistant that retrieves and summarizes the be
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time scraping of promotional deals (Nykaa, H&M)
 - Intelligent answer generation using **RAG + LLM (Google Gemini)**
